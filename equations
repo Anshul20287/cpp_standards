@@ -1,1 +1,1 @@
-
+|a-c|+|b-d|-|a-b|-|c-d|=2(min(b,c)-max(a,d))
